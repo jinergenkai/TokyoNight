@@ -1,0 +1,14 @@
+C:\Project\TokyoNight\bin\Debug\Tokyo Night Dark.pkgdef
+C:\Project\TokyoNight\bin\Debug\Tokyo Night Storm.pkgdef
+C:\Project\TokyoNight\bin\Debug\TokyoNight.vsix
+C:\Project\TokyoNight\bin\Debug\extension.vsixmanifest
+C:\Project\TokyoNight\obj\Debug\TokyoNight.csproj.AssemblyReference.cache
+C:\Project\TokyoNight\obj\Debug\_EmptyResource.resources
+C:\Project\TokyoNight\obj\Debug\TokyoNight.csproj.GenerateResource.cache
+C:\Project\TokyoNight\obj\Debug\TokyoNight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TokyoNight\obj\Debug\TokyoNight.csproj.CoreCompileInputs.cache
+C:\Project\TokyoNight\obj\Debug\TokyoNight.dll
+C:\Project\TokyoNight\obj\Debug\TokyoNight.pdb
+C:\Project\TokyoNight\obj\Debug\extension.vsixmanifest
+C:\Project\TokyoNight\obj\Debug\files.json
+C:\Project\TokyoNight\obj\Debug\createTemplateManifests.cache

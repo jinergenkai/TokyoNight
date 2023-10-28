@@ -1,0 +1,22 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="TokyoNight.e3117803-c25b-4614-b277-2c5c1147e22f" Version="1.0" Language="en-US" Publisher="Jinergenkai" />
+    <DisplayName>Tokyo Night</DisplayName>
+    <Description xml:space="preserve">Tokyo Night Theme</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Tokyo Night Dark.jsonc\Tokyo Night Dark.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Tokyo Night Storm.jsonc\Tokyo Night Storm.pkgdef" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+</PackageManifest>
